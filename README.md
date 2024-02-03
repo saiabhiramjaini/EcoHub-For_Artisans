@@ -190,7 +190,7 @@ Note : Before running setup your .env as required
 
 - [@saiabhiramjaini](https://github.com/saiabhiramjaini)
 - **Repositories :**
-https://github.com/saiabhiramjaini/Resculpt-For_Artisans
+[https://github.com/saiabhiramjaini/Resculpt-For_Artisans](https://github.com/saiabhiramjaini/EcoHub-For_Artisans)
 
 ## Feedback 
 
